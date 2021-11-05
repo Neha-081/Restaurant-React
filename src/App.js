@@ -1,8 +1,8 @@
 
 // import { useState } from 'react';
-import {Form} from './components/Form'
+import {Table} from './components/Table'
 
 import './App.css'
-const App = () => <Form/>
+const App = () => <Table/>
 
 export default App;
